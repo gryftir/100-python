@@ -13,7 +13,7 @@ First some things I know already
 5. pip installs python packages
 6. python uses indentation for scope
 
-1. hash bang for python invocation from the shell
+1. hash bang for python invocation from the shell #!/usr/bin/python
 2. declarations
 3. an integer (for integer math tricks)
 4. a floating point number
