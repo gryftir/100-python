@@ -15,8 +15,8 @@ First some things I know already
 
 1. hash bang for python invocation from the shell #!/usr/bin/python
 2. declarations
-3. an integer (for integer math tricks)
-4. a floating point number
+3. an integer (number without a decimal place)
+4. a floating point number (number with a decimal place)
 5. a string ("" around the string literal)
 6. an array
 7. a character
@@ -45,7 +45,7 @@ First some things I know already
 30. how to do substitution in python
 31. array length
 32. how to do a single line comment (#)
-33. is a multi line comment different, and if so, how? nope #
+33. is a multi line comment different, and if so, (how? nope #)
 34. how to find out a substring
 35. how to search for a character, or a set of characters, in a string
 36. how to access an element in an array
@@ -63,3 +63,4 @@ First some things I know already
 48. what is false
 49. Can I define things to be clearer, like in C?
 50. how to invoke the debugger
+51. How to cast to an integer/float form the opposite
