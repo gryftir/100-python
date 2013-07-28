@@ -17,7 +17,7 @@ First some things I know already
 2. declarations
 3. an integer (for integer math tricks)
 4. a floating point number
-5. a string
+5. a string ("" around the string literal)
 6. an array
 7. a character
 8. a hash (I think it's called a dictionary)
@@ -38,14 +38,14 @@ First some things I know already
 23. how to declare a package/library
 24. how to read a line from STDIN
 25. how to read a line from an opened file
-26. how to write a line to STDOUT
+26. how to write a line to STDOUT (print)
 27. how to write a line to an opened file
 28. how to close a file
 29. how to do regex matching in python
 30. how to do substitution in python
 31. array length
-32. how to do a single line comment
-33. is a multi line comment different, and if so, how?
+32. how to do a single line comment (#)
+33. is a multi line comment different, and if so, how? nope #
 34. how to find out a substring
 35. how to search for a character, or a set of characters, in a string
 36. how to access an element in an array
