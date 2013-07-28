@@ -14,7 +14,7 @@ First some things I know already
 6. python uses indentation for scope
 
 1. hash bang for python invocation from the shell #!/usr/bin/python
-2. declarations
+2. declarations if a variable (name = value)
 3. an integer (number without a decimal place)
 4. a floating point number (number with a decimal place)
 5. a string ("" around the string literal)
@@ -38,7 +38,7 @@ First some things I know already
 23. how to declare a package/library
 24. how to read a line from STDIN
 25. how to read a line from an opened file
-26. how to write a line to STDOUT (print)
+26. how to write a line to STDOUT (print) (note, can use , to chain elements in print, will evalue outside of commas %s for string %d for integer %item for one item or %(value1, value2) for more then one value)
 27. how to write a line to an opened file
 28. how to close a file
 29. how to do regex matching in python
